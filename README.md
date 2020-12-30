@@ -1,2 +1,2 @@
 # HnSocial
-Red social
+Bootstrap Template
